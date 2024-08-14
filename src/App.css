@@ -1,0 +1,23 @@
+body{
+  background-color: aqua;
+  width:99%;
+  border: 5px solid gray;
+}
+h1{
+  text-align: center;
+}
+h3{
+  color:brown;
+  background-color: rgb(13, 14, 13);
+  width: 100%;
+  text-align: center;
+  border-radius: 60%;
+}
+img{
+  width:480px;
+  display: inline-block;
+  height: 600px;
+  border: 10px soild red;
+  border-radius: 20%;
+  margin:10px;
+}
